@@ -1,0 +1,7 @@
+C:\Users\Spanache Cerasela\Desktop\.net\Laborator2\bin\Debug\Laborator2.exe.config
+C:\Users\Spanache Cerasela\Desktop\.net\Laborator2\bin\Debug\Laborator2.exe
+C:\Users\Spanache Cerasela\Desktop\.net\Laborator2\bin\Debug\Laborator2.pdb
+C:\Users\Spanache Cerasela\Desktop\.net\Laborator2\obj\Debug\Laborator2.csproj.AssemblyReference.cache
+C:\Users\Spanache Cerasela\Desktop\.net\Laborator2\obj\Debug\Laborator2.csproj.CoreCompileInputs.cache
+C:\Users\Spanache Cerasela\Desktop\.net\Laborator2\obj\Debug\Laborator2.exe
+C:\Users\Spanache Cerasela\Desktop\.net\Laborator2\obj\Debug\Laborator2.pdb
