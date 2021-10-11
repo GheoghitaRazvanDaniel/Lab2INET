@@ -1,0 +1,16 @@
+G:\INET\Lab2\Lab2Part3\Lab2Part3\bin\Debug\net5.0\Lab2Part3.exe
+G:\INET\Lab2\Lab2Part3\Lab2Part3\bin\Debug\net5.0\Lab2Part3.deps.json
+G:\INET\Lab2\Lab2Part3\Lab2Part3\bin\Debug\net5.0\Lab2Part3.runtimeconfig.json
+G:\INET\Lab2\Lab2Part3\Lab2Part3\bin\Debug\net5.0\Lab2Part3.runtimeconfig.dev.json
+G:\INET\Lab2\Lab2Part3\Lab2Part3\bin\Debug\net5.0\Lab2Part3.dll
+G:\INET\Lab2\Lab2Part3\Lab2Part3\bin\Debug\net5.0\ref\Lab2Part3.dll
+G:\INET\Lab2\Lab2Part3\Lab2Part3\bin\Debug\net5.0\Lab2Part3.pdb
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.csproj.AssemblyReference.cache
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.GeneratedMSBuildEditorConfig.editorconfig
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.AssemblyInfoInputs.cache
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.AssemblyInfo.cs
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.csproj.CoreCompileInputs.cache
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.dll
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\ref\Lab2Part3.dll
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.pdb
+G:\INET\Lab2\Lab2Part3\Lab2Part3\obj\Debug\net5.0\Lab2Part3.genruntimeconfig.cache
